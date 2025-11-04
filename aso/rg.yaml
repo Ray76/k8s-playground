@@ -4,4 +4,4 @@ metadata:
   name: ray-test-rg
   namespace: default
 spec:
-  location: northeurope
+  location: westeurope
